@@ -1,2 +1,1 @@
-echo "<h1> test bash + jenkins CICD" > index.html
-echo "<h1> coba baru" > index.html
+echo "<h1> test bash + jenkins CICD versi 2" > index.html
